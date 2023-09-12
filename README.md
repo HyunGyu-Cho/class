@@ -4,6 +4,11 @@
 
 ### my readMe File
 
+#### 이름: Cho Hyun Gyu
+#### 학번: 19101282
+#### 과목: Open Source SoftWare
+
+
 c언어로 된 간단한 소스코드를 작성해 보겠습니다.
 
 
